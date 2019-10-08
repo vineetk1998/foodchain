@@ -1,8 +1,12 @@
 # Ensuring Food Safety Using Blockchain
 
+We developed & incorporated blockchain from scratch in python to track food through various stages of supply chain and bring transparency to data with integrity and validity(incorruptible data). 
+
+
+
 The main logic of blockchain is in [blockchain.py](/blockchain.py)
 
-We made an API with various functionalities for blockchain ia as mentioned in [blockchain.py](/blockchain.py). The API is built using Flask and you can test the API requests using Postman.
+We made an API with various functionalities for blockchain as mentioned in [blockchain.py](/blockchain.py). The API is built using Flask and you can test the API requests using Postman.
 
 To run and test it:
 
@@ -22,5 +26,8 @@ To run and test it:
 
 the POST request format for adding nodes is in [nodes.json](/nodes.json)
 & for adding transactions is in [transaction.json](/transaction.json)
+
+
+
 
 **NOTE** : *It is a college project, for further information refer* [Project Report](/Report.pdf)
