@@ -6,7 +6,7 @@ We developed & incorporated blockchain from scratch in python to track food thro
 
 The main logic of blockchain is in [blockchain.py](/blockchain.py)
 
-We made an API with various functionalities for blockchain as mentioned in [blockchain.py](/blockchain.py). The API is built using Flask and you can test the API requests using Postman.
+We made an API with various functionalities for blockchain as mentioned in [blockchain.py](/blockchain.py). The API is built using Flask and you can test the API requests using Postman. 
 
 To run and test it:
 
